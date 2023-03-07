@@ -1,0 +1,38 @@
+/*****************************************Tag Selectors************************************************/
+body{
+    background-color: bisque;
+}
+
+
+h1{
+    color: slateblue;
+    font-family: fantasy;
+    font-size: 100px;
+    
+}
+p{
+    color: salmon;
+    font-family: fantasy;
+}
+
+ img:hover{
+
+    
+    background-color: gold;
+ }
+   
+    /*****************************************Class Selectors************************************************/
+ .pizza{
+
+    background-color: green;
+
+    
+ }
+ .beer{
+    background-color: red;
+    
+ }
+     /*****************************************ID Selectors************************************************/
+#beer{
+    color: chocolate;
+}
