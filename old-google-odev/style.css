@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+table{
+    border-width: thick;
+    width: 85%;
+    margin: 0 0 0 8%
+}
+
+.google-img{
+    text-align: center;
+}
+.search-bar{
+
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+}
+.table2 {
+    text-align: center;
+}
+
+    
+    
+
+.second-box,.third-box{
+    text-align: center;
+    font-size: small;
+   
+    
+   
+}
+
+   
+    
+
+footer {
+    margin-top: 10px;
+    text-align: center;
+    font-size: small;
+}
